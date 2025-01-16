@@ -24,3 +24,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 1. /app//ui/global.css ------ Reglas de los css. Importamos componentes aqui.
 2. /app/layout.tsx   ------ Estilos globales de la app. Importa el global.css
 3. /app/page.tsx    ------- Tailwind clases
+
+# Github push
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <URL_DEL_REPOSITORIO>
+git push -u origin main
